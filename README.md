@@ -1,2 +1,3 @@
 # AI-Researcher 🔬
-testing the waters of AutoGPT by trying to automate boring research tasks (e.g. how does tax code affect cost of living?, etc.)
+
+Explanation of what it can do: It can take queries from a user and give users an accurate answer based on real time data. The AI-Researcher will scrape the web for the relevant information of your query then it will pass that information into ChatGPT to answer your question. This makes it essentially a more specific Google search. No more having to dig through countless articles that pop up on google when you can have a research assistant read those articles and summarize it for you conclusively. 
